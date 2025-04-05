@@ -1,4 +1,5 @@
-🏡 Australian Housing Market Dashboard 📊
+# 🏡 Australian Housing Market Dashboard 📊
+<img width="1470" alt="Screenshot 2025-03-20 at 15 37 41" src="https://github.com/user-attachments/assets/9f36a4c9-fe34-4e4e-8d40-87c01c09935b" />
 
 This interactive Excel dashboard provides key insights into sold properties across different suburbs, price ranges, and property types. It visualizes real estate trends, agency performance, and price distributions to enhance decision-making.
 
